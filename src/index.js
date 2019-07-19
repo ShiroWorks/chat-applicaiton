@@ -11,13 +11,13 @@ const firebase = require('firebase');
 require('firebase/firestore'); // Required for side-effects?????
 
 firebase.initializeApp({
-  apiKey: 'AIzaSyAWSewCMRQDgn421JojNCdv0LZIHJO4cz8',
-  authDomain: 'blaze-chatty.firebaseapp.com',
-  databaseURL: 'https://blaze-chatty.firebaseio.com',
-  projectId: 'blaze-chatty',
-  storageBucket: 'blaze-chatty.appspot.com',
-  messagingSenderId: '462510060404',
-  appId: '1:462510060404:web:05484d148abf5bd6'
+  apiKey: '**********',
+  authDomain: '*****************',
+  databaseURL: '*****************',
+  projectId: '**************',
+  storageBucket: '***********************',
+  messagingSenderId: '******************',
+  appId: '*************************'
 });
 
 const routing = (
